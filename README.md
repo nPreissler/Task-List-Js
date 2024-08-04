@@ -42,4 +42,6 @@ Este é um projeto simples de lista de tarefas desenvolvido com HTML, CSS e Java
 3. Clique no botão "Adicionar Tarefa" ou pressione Enter para adicionar a tarefa à lista.
 4. Para remover uma tarefa, clique no botão "Remover" ao lado da tarefa.
 
--- Ou apenas abra o link do GitHub pages que pode ser encontrado no menu superior direito de repositório
+### Outra alternativa 
+
+-- Apenas abra o link do GitHub pages que pode ser encontrado no menu superior direito de repositório
